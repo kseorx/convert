@@ -1,0 +1,7 @@
+# Compiled files
+__pycache__/
+*.pyc
+
+# Source and config files (not ignored, but listed here for context of what was added)
+# load_to_clickhouse.py
+# schema.sql
